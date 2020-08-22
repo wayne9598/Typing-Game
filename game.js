@@ -1,5 +1,5 @@
 // import {createBomb, vocab3, vocab4, vocab5, vocab6} from '/createBomb.js'
-import {buildLevel, level0, level1, level2, level3, level4} from '/level.js'
+import {buildLevel, level0, level1, level2, level3, level4} from './level.js'
 // ------------------------------------------------------------------------
 const GAMESTATE = {
     PAUSED : 0,

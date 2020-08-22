@@ -1,4 +1,4 @@
-import {createBomb, vocab3, vocab4, vocab5, vocab6, vocab7, vocab8, vocab9, vocab10} from '/createBomb.js'
+import {createBomb, vocab3, vocab4, vocab5, vocab6, vocab7, vocab8, vocab9, vocab10} from './createBomb.js'
 
 export function buildLevel(level) {
     let bombs = [];

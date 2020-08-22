@@ -1,6 +1,6 @@
-import Bomb from '/bomb.js'
-import TextBox from '/textBox.js'
-import Game from '/game.js'
+import Bomb from './bomb.js'
+import TextBox from './textBox.js'
+import Game from './game.js'
 
 import InputHandler from '/input.js'
 

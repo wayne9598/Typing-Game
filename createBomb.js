@@ -1,4 +1,4 @@
-import Bomb from '/bomb.js'
+import Bomb from './bomb.js'
 
 
 export function createBomb(vocab, position, height) {
