@@ -1,5 +1,3 @@
-// import Game from "./game";
-
 export default class InputHandler {
 
     constructor(textBox, game){
